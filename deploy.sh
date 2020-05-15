@@ -16,7 +16,6 @@ git init
 git add -A
 git commit -m 'deploy'
 
-https://albertbol.github.io/tsi-flight-monitor/
 # if you are deploying to https://<USERNAME>.github.io
 # git push -f git@github.com:<USERNAME>/<USERNAME>.github.io.git master
 
